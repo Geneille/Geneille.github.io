@@ -180,16 +180,19 @@ header.masthead h2 {
 }
 
 .education {
-    margin-bottom: -30px;
-    padding-bottom: 100px;
-    
+    margin-bottom: -50px;
+
 }
 
-.education .star-dark {
-    padding-top: 10px
+.education .star-dark mb5 {
+    padding-top: 100px
     
-}
+} 
 
+.education .credential {
+    padding-top: 20px;
+
+}
 .education .location {
     font-size: 1.6rem;
     font-weight: 500;
@@ -207,12 +210,11 @@ header.masthead h2 {
 
 .education .credential-divider {
     border-color: rgba(0, 0, 0, 0.3);
-    
 }
 
 .footer {
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     background-color: #1a252f;
     color: #fff;
 }
